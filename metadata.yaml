@@ -1,5 +1,8 @@
 _repo: Guernsey-Folk-Lore-a-collection-of-popular-superstitions-legendary-tales-peculiar-customs-pro__52834
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52834-h/images/cover.jpg
 creator:
   author:
     agent_name: MacCulloch, Edgar, Sir
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '47069'
     url: http://www.gutenberg.org/2009/agents/47069
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52834#Guernsey-Folk-Lore-a-collection-of-popular-superstitions-legendary-tales-peculiar-customs-pro_
 gutenberg_issued: '2016-08-18'
 gutenberg_type: Text
 identifiers:
