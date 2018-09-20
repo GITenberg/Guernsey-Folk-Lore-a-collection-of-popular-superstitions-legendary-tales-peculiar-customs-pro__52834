@@ -1,0 +1,33 @@
+_repo: Guernsey-Folk-Lore-a-collection-of-popular-superstitions-legendary-tales-peculiar-customs-pro__52834
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacCulloch, Edgar, Sir
+    birthdate: 1808
+    deathdate: 1896
+    gutenberg_agent_id: '47068'
+    url: http://www.gutenberg.org/2009/agents/47068
+  editor:
+    agent_name: Carey, Edith F. (Edith Frances)
+    alias: Carey, Edith Frances
+    birthdate: 1864
+    deathdate: 1935
+    gutenberg_agent_id: '47069'
+    url: http://www.gutenberg.org/2009/agents/47069
+description: ''
+gutenberg_issued: '2016-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52834'
+  lccn: 04001884
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Folklore -- Guernsey'
+- GITenberg
+title: "Guernsey Folk Lore\r\na collection of popular superstitions, legendary tales,\
+  \ peculiar customs, proverbs, weather sayings, etc., of the people of that island"
+url: http://www.gutenberg.org/ebooks/52834
